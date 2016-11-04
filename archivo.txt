@@ -1,0 +1,11 @@
+commit 837a15dd0133b24ec23a04a53457d89d65908768
+Author: Gerson Lazaro <gersonlazaro@gersonlazaro.com>
+Date:   Fri Nov 4 14:04:11 2016 -0500
+
+    Agrego un titulo
+
+commit dbff79ec246428ed3122b2776657e84b05f6b479
+Author: Gerson Lazaro <gersonlazaro@gersonlazaro.com>
+Date:   Fri Nov 4 14:03:08 2016 -0500
+
+    Añado los estilos css
